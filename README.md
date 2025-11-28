@@ -1,5 +1,15 @@
 # CRAZYDEAL
- A mobile-responsive sample of the CRAZYDEAL e-commerce template using HTML, CSS and JavaScript.
+
+A mobile-responsive sample of the CRAZYDEAL e-commerce template using HTML, CSS and JavaScript.
+
+## About
+This project is a lightweight front-end template showcasing a product listing, carousel, product details and a simple cart flow. It's intended for learning and prototyping.
+
+## Usage
+Open `index.html` in a browser or serve this folder from any static server.
+
+## License
+The project is licensed under the MIT License — see `LICENSE`.
  
  
  
