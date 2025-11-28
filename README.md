@@ -1,5 +1,5 @@
-# E-CommerceWebsite
- A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
+# CRAZYDEAL
+ A mobile-responsive sample of the CRAZYDEAL e-commerce template using HTML, CSS and JavaScript.
  
  
  
